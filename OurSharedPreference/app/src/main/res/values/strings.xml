@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Our Shared Preference</string>
+    <string name="btn_show">Hiển thị</string>
+    <string name="hint_password">Nhập mật khẩu</string>
+    <string name="hint_username">Nhập tên đăng nhập</string>
+    <string name="password">123</string>
+    <string name="hint_password_confirm">Nhập lại mật khẩu</string>
+
+</resources>

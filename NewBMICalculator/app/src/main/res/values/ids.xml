@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="rdo_male" type="id" />
+    <item name="rdo_female" type="id" />
+    <item name="edt_age" type="id" />
+    <item name="edt_weight" type="id" />
+    <item name="edt_inches" type="id" />
+    <item name="edt_feet" type="id" />
+</resources>
